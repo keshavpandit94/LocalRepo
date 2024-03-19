@@ -24,3 +24,5 @@ elif oper == '%' :
 
 else :
     print("Wrong Entery")
+
+print("/n Use this software you next time")
