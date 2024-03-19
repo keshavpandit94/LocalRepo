@@ -18,5 +18,9 @@ elif oper == '/' :
     divd = firstNum - secondNum 
     print("divd the ", firstNum , "and", secondNum, "=", divd)
 
+elif oper == '%' :
+    remb = firstNum - secondNum 
+    print("remb the ", firstNum , "and", secondNum, "=", remb)
+
 else :
     print("Wrong Entery")
